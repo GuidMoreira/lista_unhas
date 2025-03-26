@@ -1,0 +1,5 @@
+let unhas =["Quadrada", "Redonda", "Oval", "Amendoada", "Stiletto", "Bailarina", "Squoval", "Unhas de acrílico", "Unhas de gel", "Unhas polygel"];
+
+for (indice=0; indice<=9; indice++){
+  console.log (unhas[indice]);
+}
